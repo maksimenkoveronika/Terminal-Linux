@@ -16,14 +16,16 @@
 12) Найти файл по имени -----> find . -name 1.txt
 13) Просмотреть содержимое в реальном времени (команда grep) изучите как она работает -----> tail -f file1.txt
 14) Вывести несколько первых строк из текстового файла -----> head -n 4 1.txt
+
         Hello!
         My name Veronika!
         I'm currently taking a course in testing, Linux commands.
 
 15 ) Вывести несколько последних строк из текстового файла -----> tail -n 2 1.txt
+
       I'm currently taking a course in testing, Linux commands.
       When searching for files, grep is convenient to use to filter the output of the find command, as was shown at the beginning of the material. But if you need to find some file in the system by its name or part of the name (in this case, the mask * is used), then it is best to turn to find. It will display the exact location of the file you are looking for.
 
 16) Просмотреть содержимое длинного файла (команда less) изучите как она работает -----> less 1.txt
-17) 
-18) Вывести дату и время -----> date
+
+17) Вывести дату и время -----> date
