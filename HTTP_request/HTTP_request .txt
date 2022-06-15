@@ -1,0 +1,6 @@
+Задание * 
+1) Отправить http запрос на сервер.
+curl http162.55.220.725005terminal-hw-request
+
+
+curl "http162.55.220.725005get_methodname=nika&age=26"
