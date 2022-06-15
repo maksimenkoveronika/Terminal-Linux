@@ -1,0 +1,30 @@
+:set number
+
+
+i 
+
+1 Nika
+
+2 Gleb
+
+3 Vasya
+
+4 Vika
+
+5 Hanna
+
+6 Dima
+
+7 Alex
+
+8 Gleb
+
+9 Vova
+
+10 Viktor
+
+11 Nastya
+
+12 Petr
+
+13 Nika
